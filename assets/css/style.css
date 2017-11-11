@@ -286,10 +286,9 @@ button {
         background-color: transparent; } }
 
 .sublink-div {
-  width: 300px;
+  width: 13.5vw;
   z-index: 5;
   visibility: hidden;
-  width: 300px;
   display: block;
   position: absolute;
   top: 51px;
